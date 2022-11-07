@@ -1,0 +1,526 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+#bandnerContianer{
+    display: flex;
+    background-color: rgb(210, 208, 208);
+
+}
+#bandnerContianer img{
+    width: 65%;
+    margin: 24px;
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+.mainmenu{
+    display: flex;
+    justify-content: space-between;
+   
+} 
+.mainmenu h3{
+    font-size: 32px;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    margin-right: 24px;
+    
+}
+.Logo{
+    display: flex;
+}
+.Logo img{
+    width: 40px;
+}
+.link{
+    margin-top: 30px;
+    margin-bottom: 16px;
+}
+a.link1{
+    margin: 16px ;
+    font-size: 25px;
+}
+a.link4{
+    margin-right: 24px;
+    margin-left: 16px;
+    margin-bottom: 16px;
+    margin-top: 20px;
+    font-size: 25px;
+}
+a.link2{
+    margin: 16px ;
+    font-size: 25px;
+
+}
+a.link3{
+    margin: 16px ;
+    font-size: 25px;
+}
+#textBandner{
+    display: flex;
+    align-items: center;
+    width: 40%;
+    
+    margin-left: 24px;
+    font-size: 32px;
+    margin-right: 24px;
+}
+.TextColumn{
+    display: flex;
+    flex-direction: column;
+}
+button {
+   
+    margin-top: 8px;
+    margin-bottom: 8px;
+    height: 42px;
+    background-color:rgb(59, 58, 58) ;
+    color: white;
+    font-size: 20px;
+}
+.TextColumn h1{
+    margin-bottom: 24px;
+    color: rgb(59, 58, 58);
+    font-size: 50px;
+    font-family: 'Work Sans', sans-serif;
+}
+ 
+
+.TextColumn p{
+    margin-bottom: 24px;
+    color: rgb(59, 58, 58);
+    font-family: 'Work Sans', sans-serif;
+    font-size: 24px;
+}
+#bandnerContianer2{
+    display: flex;
+    width: 100%;
+}
+.mainmenu2{
+    display: flex;
+    flex-direction: column;
+    width: 65%;
+}
+.mainmenu2 img{
+    margin-left: 24px;
+    margin-right: 24px;
+    margin-top: 32px;
+    margin-bottom: 32px;
+    padding-right: 16px;
+
+}
+#information{
+    display: flex;
+    flex-direction: column;
+    width: 35%;
+    margin-top: 32px;
+    margin-bottom: 16px;
+   
+}
+.textBandner2{
+   margin-bottom: 32px;
+   margin-left: 24px;
+
+}
+.textBandner2 h1{
+    margin-bottom: 24px;
+    font-family: 'Work Sans', sans-serif;
+    color: rgb(59, 58, 58);
+}
+.textBandner2 p{
+    font-family: 'Work Sans', sans-serif;
+    color: rgb(95, 93, 93);
+}
+.img1{
+    display: flex;
+    flex-direction: row;
+}
+.img1 img{
+    width: 35%;
+    height: auto;
+    margin-left: 16px;
+    
+    margin-bottom: 16px;
+}
+.img2{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 16px;
+}
+
+.img2 img {
+    width: 35%;
+    height: auto;
+    margin-left: 16px;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+.img3{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(210, 208, 208);
+}
+
+.img3 img {
+    width: 35%;
+    height: auto;
+    margin-left: 16px;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+.textin1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 16px;
+}
+.textin1 h2{
+    margin-bottom: 8px;
+    font-family: 'Work Sans', sans-serif;
+    color: rgb(59, 58, 58);
+
+}
+.textin1 p{
+    font-family: 'Work Sans', sans-serif;
+    color: rgb(95, 93, 93);
+}
+.textin1 a{
+    margin-top: 8px;
+    font-family: 'Work Sans', sans-serif;
+
+}
+.textin2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 16px;
+}
+.textin2 h2{
+    margin-bottom: 8px;
+    font-family: 'Work Sans', sans-serif;
+    color: rgb(59, 58, 58);
+
+}
+.textin2 p{
+    font-family: 'Work Sans', sans-serif;
+    color: rgb(95, 93, 93);
+}
+.textin2 a{
+    margin-top: 8px;
+    font-family: 'Work Sans', sans-serif;
+
+}
+.textin3{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 16px;
+}
+.textin3 h2{
+    margin-bottom: 8px;
+    font-family: 'Work Sans', sans-serif;
+    color: rgb(59, 58, 58);
+
+}
+.textin3 p{
+    font-family: 'Work Sans', sans-serif;
+    color: rgb(95, 93, 93);
+}
+.textin3 a{
+    margin-top: 8px;
+    font-family: 'Work Sans', sans-serif;
+}
+#Coursesmain1{
+display: flex;
+flex-direction: row;
+margin-top: 32px;
+background-color: rgb(210, 208, 208);
+
+
+}
+.Coursas1{
+    
+    margin-left: 72px;
+    width: 30%;
+    background-color: white;
+    
+}
+.Coursas2{
+    margin-right: 32px;
+    margin-left:32px ;
+    width: 30%;
+    background-color: white;
+}
+    
+.Coursas3{
+    width: 30%;
+    margin-right: 72px;
+    background-color: white;
+}
+.Coursas1 img{
+    width: 100%;
+    height: auto;
+
+}
+.Coursas2 img{
+    width: 100%;
+    height: auto;
+}
+.Coursas3 img{
+    width: 100%;
+    height: auto;
+}
+.Coursesmain{
+    background-color: rgb(210, 208, 208);
+}
+.Coursesmain h1{
+    padding-top: 32px;
+  text-align: center;
+    background-color: rgb(210, 208, 208);
+    margin: 0 auto;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 45px;
+    color: rgb(59, 58, 58);
+}
+.Coursas1 h2{
+    margin-left: 16px;
+    margin-top: 16px;
+    font-family: 'Work Sans', sans-serif;
+    color: rgb(59, 58, 58);
+}
+.Coursas1 p{
+    margin-left: 16px;
+    margin-top: 8px;
+    font-family: 'Work Sans', sans-serif;
+    color: rgb(95, 93, 93);
+}
+
+
+.Coursas2 h2{
+    margin-left: 16px;
+    margin-top: 16px;
+    font-family: 'Work Sans', sans-serif;
+    color: rgb(59, 58, 58);
+}
+
+.Coursas2 h4{
+    font-family: 'Work Sans', sans-serif;
+    color: rgb(95, 93, 93);
+}
+
+.Coursas2 p{
+    margin-left: 16px;
+    margin-top: 8px;
+    margin-bottom: 24px;
+    font-family: 'Work Sans', sans-serif;
+    color: rgb(95, 93, 93);
+}
+
+.Coursas3 h2{
+    margin-left: 16px;
+    margin-top: 16px;
+    font-family: 'Work Sans', sans-serif;
+    color: rgb(59, 58, 58);
+}
+.Coursas3 p{
+    margin-left: 16px;
+    margin-top: 8px;
+    font-family: 'Work Sans', sans-serif;
+    color: rgb(95, 93, 93);
+}
+#Coursesmain2{
+    display: flex;
+    flex-direction: row;
+    margin-top: 32px;
+   padding-bottom: 32px;
+}
+.Coursas4 h2{
+    margin-left: 16px;
+    margin-top: 16px;
+    font-family: 'Work Sans', sans-serif;
+    color: rgb(59, 58, 58);
+}
+.Coursas4 p{
+    margin-left: 16px;
+    margin-top: 8px;
+    font-family: 'Work Sans', sans-serif;
+    color: rgb(95, 93, 93);
+}
+.Coursas5 h2{
+    margin-left: 16px;
+    margin-top: 16px;
+    font-family: 'Work Sans', sans-serif;
+    color: rgb(59, 58, 58);
+}
+.Coursas5 p{
+    margin-left: 16px;
+    margin-top: 8px;
+    margin-bottom: 24px;
+    font-family: 'Work Sans', sans-serif;
+    color: rgb(95, 93, 93);
+}
+.Coursas6 h2{
+    margin-left: 16px;
+    margin-top: 16px;
+    font-family: 'Work Sans', sans-serif;
+    color: rgb(59, 58, 58);
+}
+.Coursas6 p{
+    margin-left: 16px;
+    margin-top: 8px;
+    font-family: 'Work Sans', sans-serif;
+    color: rgb(95, 93, 93);
+}
+
+
+.Coursas4{
+    
+    margin-left: 72px;
+    width: 30%;
+    background-color: white;
+    
+}
+.Coursas5{
+    margin-right: 32px;
+    margin-left:32px ;
+    width: 30%;
+    background-color: white;
+}
+    
+.Coursas6{
+    width: 30%;
+    margin-right: 72px;
+    background-color: white;
+}
+.Coursas4 img{
+    width: 100%;
+    height: auto;
+
+}
+.Coursas5 img{
+    width: 100%;
+    height: auto;
+}
+.Coursas6 img{
+    width: 100%;
+    height: auto;}
+
+
+#bandnerContianer3{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    
+}
+.thesis1 {
+    margin-left: 24px;
+    margin-right: 24px;
+    height: auto;
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+}
+.thesis1 video{
+    width: 100%;
+    height: 100%;
+}
+
+   
+
+
+.mainthesis{
+    display: flex;
+    flex-direction: row;
+   
+}    
+.mainthesis2{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+.thesis2{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(210, 208, 208) ;
+   
+}
+.thesis2 h3{
+    font-family: 'Work Sans', sans-serif;
+}
+.thesis3{
+    display: flex;
+    flex-direction: row;
+    margin-top: 16px;
+    
+    
+    
+}
+.thesis3 h3{
+    font-family: 'Work Sans', sans-serif;
+}
+.thesis2 img{
+    height: auto;
+    width: 35%;
+    margin-right: 16px;
+    margin-bottom: 16px;
+    margin-top: 16px;
+    margin-left: 16px;
+ 
+}
+.thesis3 img{
+    height: auto;
+    width: 35%;
+    margin-right: 16px;
+    margin-bottom: 16px;
+    margin-left: 16px;
+}
+#bandnerContianer3 h1{
+   text-align: center;
+   margin-top: 32px;
+   margin-bottom: 32px;
+   font-family: 'Work Sans', sans-serif;
+   font-size: 45px;
+}
+.textsis1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.textsis1 h3{
+   
+    font-family: 'Work Sans', sans-serif;
+
+}
+.textsis2 h3{
+    font-family: 'Work Sans', sans-serif;
+}
+.textsis1 p{
+    font-family: 'Work Sans', sans-serif;
+}
+.textsis2 p{
+    font-family: 'Work Sans', sans-serif;
+}
+.textsis2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.thesis1 p {
+    font-family: 'Work Sans', sans-serif;
+    margin-bottom: 32px;
+}
+.thesis1 h2{
+    font-family: 'Work Sans', sans-serif;
+    margin-top: 24px;
+    margin-bottom: 8px;
+}
+
+footer {
+    padding-left: 24px;
+    padding-top: 16px;
+    padding-bottom: 24px;
+    border-top: 1px solid rgb(105, 104, 104);
+}
